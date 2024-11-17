@@ -1,0 +1,67 @@
+.table{
+    background-color: antiquewhite;
+    text-align: center;
+    color: rgb(35, 77, 35);
+    font-weight: 300;
+}
+.h1{
+    text-align: center;
+    color: azure;
+}
+.body{
+    background-image: url(/background.jpg);
+}
+.nav{
+    color: violet;
+    text-align: right;
+}
+p{
+    font-weight: 900;
+    color: rgb(255, 191, 0);
+}
+.footer_main{
+    padding-top: 34%;
+    text-align: center;
+    color: blanchedalmond;
+}
+.footer_form{
+    padding-top: 16%;
+    text-align: center;
+    color: blanchedalmond;
+}
+.footer_near{
+    padding-top: 19%;
+    text-align: center;
+    color: blanchedalmond;
+}
+.footer_about{
+    text-align: center;
+    color: blanchedalmond;
+}
+.header{
+    font-weight: 900;
+    color: rgb(115, 127, 238);
+}
+.h4{
+    font-weight: 900;
+    color: rgb(185, 35, 73);
+}
+.ul1{
+    font-weight: 900;
+    color: rgb(145, 160, 12);
+}
+.link{
+    color: rgb(74, 83, 21);
+}
+.form{
+    color: rgb(196, 122, 122);
+    border: 1cm;
+}
+.h2{
+    font-weight: 900;
+    color: rgb(164, 114, 221);
+}
+.article{
+    font-weight: 900;
+    color: rgb(92, 63, 68);
+}
